@@ -2,6 +2,7 @@ const data = {
   products: [
     {
       name: 'Free Shirt',
+      slug: 'free-shirt',
       category: 'Shirts',
       image:
         'https://www.peaksports.tn/15870-home_default/t-shirts-running-plus-orange.jpg',
@@ -14,6 +15,7 @@ const data = {
     },
     {
       name: 'Fit Shirt',
+      slug: 'fit-shirt',
       category: 'Shirts',
       image:
         'https://www.peaksports.tn/15870-home_default/t-shirts-running-plus-orange.jpg',
@@ -26,6 +28,7 @@ const data = {
     },
     {
       name: 'Slim Shirt',
+      slug: 'slim-shirt',
       category: 'Shirts',
       image:
         'https://www.peaksports.tn/15870-home_default/t-shirts-running-plus-orange.jpg',
@@ -38,6 +41,7 @@ const data = {
     },
     {
       name: 'Golf Pants',
+      slug: 'golf-pants',
       category: 'Pants',
       image:
         'https://www.peaksports.tn/15870-home_default/t-shirts-running-plus-orange.jpg',
